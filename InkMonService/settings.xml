@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <General>
+    <Interval>60</Interval>
+    <UserNotification>True</UserNotification>
+  </General>
+  <Printers>
+  </Printers>
+  <Customer>
+    <Name/>
+    <Email/>
+    <RefCode/>
+    <RefByCode/>
+    <PaypalEmail/>
+  </Customer>
+</Settings>
